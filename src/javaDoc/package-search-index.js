@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"Pokemon"},{"l":"Pokemon.Entite"},{"l":"Pokemon.Joueur"},{"l":"Pokemon.Sort"}];updateSearchResults();
